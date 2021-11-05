@@ -1,0 +1,13 @@
+.watch {
+    background: linear-gradient(#e1f5fe, #4fc3f7);
+    border: 2px solid #ccc;
+    display: inline-flex;
+    border-radius: 4px;
+}
+
+.watch > div {
+    color: #fff;
+    padding: 5px 5px;
+    font-size: 20px;
+    font-family: monospace;
+}
